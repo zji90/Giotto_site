@@ -45,7 +45,6 @@ Imports:
     lfa (>= 1.12.0),
     limma,
     Matrix,
-    magick,
     magrittr,
     matrixStats (>= 0.55.0),
     methods,
